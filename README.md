@@ -10,3 +10,5 @@ step 1:
 start Apache and Mysql
 
 step 2:
+access target address, mine is localhost/fileupload/index.php
+
