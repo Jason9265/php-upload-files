@@ -27,3 +27,7 @@ CREATE TABLE `files` (
   `file_size` int DEFAULT NULL,
   PRIMARY KEY (`file_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=15 DEFAULT CHARSET=utf8mb3;
+
+$dbsuername is mysql username
+$dbpassword is mysql password
+$dbname is database name
